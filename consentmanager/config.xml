@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>consentmanager</name>
+    <displayName><![CDATA[Consent Management Provider (CMP)]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Become GDPR &amp; CCPA-compliant with our Consent Management Provider (CMP) software for websites. Ask your website visitors for consent for GDPR/Cookies. The Cookie-Crawler will detect all Cookies on your website. 30 Languages, Your own Logo/Design, many Reports, integrated A/B-Testing. Try now for free!]]></description>
+    <author><![CDATA[consentmanager.net]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
